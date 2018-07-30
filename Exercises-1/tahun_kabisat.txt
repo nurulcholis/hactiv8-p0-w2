@@ -1,0 +1,28 @@
+ALGORITMA TAHUN KABISAT
+----------------------------------------------------------------------------------
+1. Definisikan tahun yang akan dicek kabisat apa bukan
+2. Check apakah tahun habis dibagi 4
+3. Jika tidak maka tampilkan tahun bukan tahun kabisat
+4. Jika iya maka check apakah tahun habis dibagi 100
+5. Jika tidak maka tampilkan tahun merupakan tahun kabisat
+6. Jika iya maka check apakah tahun habis dibagi 400
+7. Jika iya maka tampilkan tahun merupakan tahun kabisat
+8. Jika tidak maka tampillkan tahun bukan tahun kabisat
+
+
+PSEUDOCODE TAHUN KABISAT
+----------------------------------------------------------------------------------
+
+IF year mod 4 is 0 THEN
+    IF year mod 100 is 0 THEN
+        IF year mod 400 is 0 THEN
+            DISPLAY tahun kabisat
+        THEN ELSE
+            DISPLAY bukan tahun kabisat
+        END IF
+    THEN ELSE
+        DISPLAY tahun kabisat
+    END IF
+THEN ELSE
+    DISPLAY bukan tahun kabisat
+END IF

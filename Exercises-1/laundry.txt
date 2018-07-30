@@ -1,0 +1,15 @@
+ALGORITMA LAUNDRY DAY
+------------------------------------------------------------------------
+1. Kumpulkan semua baju dan taruh diember pertama
+2. Siapkan ember kedua untuk bantu perhitungan
+3. Ambil baju satu persatu dari ember pertama ke dalam ember kedua sambil dihitung
+   tiap kali naruh
+4. Lakukan terus hingga semua baju yang ada pada ember pertama habis dan jumlah
+   sudah sesuai
+
+
+PSEUDOCODE LAUNDRY DAY
+------------------------------------------------------------------------
+FOR t-shirt one to twelve
+    DISPLAY t-shirt
+END FOR

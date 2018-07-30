@@ -1,0 +1,17 @@
+ALGORITMA PERIKSA KUKU
+--------------------------------------------------------------
+1. Periksa kuku siswa dari 1 sampai 40
+2. Cek apakah siswa punya kuku panjang
+3. Jika iya maka hukum siswa
+4. jika tidak maka puji siswa
+
+
+PSEUDOCODE PERIKSA KUKU
+--------------------------------------------------------------
+FOR students one to fourty 
+  IF nail student is long THEN 
+    DISPLAY get punishment!!
+  ELSE THEN
+    DISPLAY get praise:)
+  END IF
+END FOR

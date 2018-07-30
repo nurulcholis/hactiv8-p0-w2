@@ -1,0 +1,15 @@
+ALGORITMA NEWTON II
+---------------------------------------------------------------------------------
+1. Definisikan massa dengan nilai tertentu
+2. Definisikan percepatan dengan nilai tertentu
+3. Hitung gaya dengan mengalikan massa dan percepatan
+4. Tampilkan hasil perhitungan gaya
+
+
+PSEUDOCODE NEWTON II
+---------------------------------------------------------------------------------
+STORE 'massa' with any value
+STORE 'percepatan' with any value
+CALCULATE 'massa' times 'percepatan'
+SET gaya with calculate result
+DISPLAY result calculate gaya
